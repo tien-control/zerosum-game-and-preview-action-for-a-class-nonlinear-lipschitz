@@ -1,3 +1,5 @@
+% By Khanh Tien Nguyen
+% Guided by Quoc Huy Vu
 %% Nonzero sum games
 clc; clear; close all;
 %%  The Flexible-link robot model
